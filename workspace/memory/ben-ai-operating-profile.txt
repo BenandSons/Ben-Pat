@@ -1,0 +1,9 @@
+This file used to contain RTF content with the wrong `.txt` extension.
+
+Canonical Markdown source:
+- `memory/profile/ben-operating-profile.md`
+
+Archived original rich-text source:
+- `memory/archive/ben-ai-operating-profile.rtf`
+
+Use the Markdown file for future reads, edits, and memory extraction.

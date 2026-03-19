@@ -1,0 +1,3 @@
+- VaaSBlock: Authority, trust, Web3 governance
+- SwiftCargo.solutions: International logistics and relocation lead generation
+- ExpatsDirect.net: Consumer-facing expat relocation platform

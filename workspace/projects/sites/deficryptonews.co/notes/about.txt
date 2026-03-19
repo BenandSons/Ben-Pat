@@ -1,0 +1,9 @@
+Defi Crypto News site access notes now live in:
+
+/Users/chubbybebe/Documents/openclaw/workspace/memory/sites/deficryptonews.md
+
+Key points:
+- WordPress REST API is reachable at https://deficryptonews.co/wp-json/
+- Public reads work anonymously
+- Authenticated writes work with the CEO user's Application Password
+- Verified on 2026-03-19 with a successful title update to post 207

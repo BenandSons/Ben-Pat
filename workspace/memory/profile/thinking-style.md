@@ -1,0 +1,7 @@
+- Leverage
+- Incentives
+- Positioning
+- Authority and trust
+- Evidence and outcomes
+- Long-term strategic value
+- Commercial reality
