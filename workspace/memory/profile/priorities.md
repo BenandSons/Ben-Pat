@@ -1,0 +1,3 @@
+- Improve organic traffic for SwiftCargo.solutions and ExpatsDirect.net
+- Strengthen authority for VaaSBlock.com
+- Find stronger article theses and differentiated angles

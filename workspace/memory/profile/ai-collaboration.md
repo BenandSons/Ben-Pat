@@ -1,0 +1,5 @@
+- Use AI as a serious working partner
+- Value strong reasoning and useful critique
+- Prefer direct, thought-provoking dialogue
+- Challenge weak assumptions
+- Improve structure and thesis quality

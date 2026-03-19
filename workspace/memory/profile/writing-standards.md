@@ -1,0 +1,6 @@
+- Clear thesis
+- Meaningful content
+- Strong reasoning
+- Examples
+- Value to readers
+- Authority and credibility
